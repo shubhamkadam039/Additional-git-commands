@@ -1,0 +1,9 @@
+1. To modify the latest commit :-
+git commit --amend
+
+2. To move the file from staging area to working directory :-
+git restore --staged <file-name>
+
+3. git tag v1.1
+
+4. git tag v1.2 <commit-id>
